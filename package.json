@@ -46,8 +46,8 @@
     "pnpm": ">=7.5.0",
     "node": ">=16.14.2"
   },
-  "packageManager": "pnpm@8.2.0",
+  "packageManager": "pnpm@8.6.5",
   "volta": {
-    "node": "18.16.0"
+    "node": "18.16.1"
   }
 }
